@@ -1,0 +1,7 @@
+{
+  "name": "threshold calibration",
+  "domain": "finance",
+  "score_floor": 0.65,
+  "review_window_hours": 24,
+  "expected_action": "review"
+}

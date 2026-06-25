@@ -1,0 +1,7 @@
+{
+  "name": "reporting view",
+  "domain": "finance",
+  "score_floor": 0.77,
+  "review_window_hours": 48,
+  "expected_action": "review"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "risk explanation",
+  "domain": "finance",
+  "score_floor": 0.39,
+  "review_window_hours": 24,
+  "expected_action": "monitor"
+}
